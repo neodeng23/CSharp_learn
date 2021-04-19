@@ -1,4 +1,5 @@
 ﻿using System;
+using RectangleApplication;
 
 namespace start
 {
@@ -16,7 +17,10 @@ namespace start
                 程序的执行从 Main 方法开始。
             */
             // 暂停，等待键盘响应
-            Console.ReadKey();
+            Rectangle r = new Rectangle();
+            r.Acceptdetails();
+            r.Display();
+            Console.ReadLine();
         }
     }
 }

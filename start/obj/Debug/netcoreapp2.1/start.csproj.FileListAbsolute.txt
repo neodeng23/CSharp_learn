@@ -9,3 +9,14 @@ F:\CSharp\CSharp_learn\start\start\obj\Debug\netcoreapp2.1\start.AssemblyInfoInp
 F:\CSharp\CSharp_learn\start\start\obj\Debug\netcoreapp2.1\start.AssemblyInfo.cs
 F:\CSharp\CSharp_learn\start\start\obj\Debug\netcoreapp2.1\start.dll
 F:\CSharp\CSharp_learn\start\start\obj\Debug\netcoreapp2.1\start.pdb
+F:\CSharp\CSharp_learn\start\bin\Debug\netcoreapp2.1\start.deps.json
+F:\CSharp\CSharp_learn\start\bin\Debug\netcoreapp2.1\start.runtimeconfig.json
+F:\CSharp\CSharp_learn\start\bin\Debug\netcoreapp2.1\start.runtimeconfig.dev.json
+F:\CSharp\CSharp_learn\start\bin\Debug\netcoreapp2.1\start.dll
+F:\CSharp\CSharp_learn\start\bin\Debug\netcoreapp2.1\start.pdb
+F:\CSharp\CSharp_learn\start\obj\Debug\netcoreapp2.1\start.csprojAssemblyReference.cache
+F:\CSharp\CSharp_learn\start\obj\Debug\netcoreapp2.1\start.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_learn\start\obj\Debug\netcoreapp2.1\start.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_learn\start\obj\Debug\netcoreapp2.1\start.AssemblyInfo.cs
+F:\CSharp\CSharp_learn\start\obj\Debug\netcoreapp2.1\start.dll
+F:\CSharp\CSharp_learn\start\obj\Debug\netcoreapp2.1\start.pdb
